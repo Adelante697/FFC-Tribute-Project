@@ -5,8 +5,8 @@ img {
   margin: auto;
   text-align: center;
 }
-/*so my problem was the text align must be centered, not on auto.  Fooling around seems to indicate*/
-/*anything else can be set to auto but text align MUST BE centered, that confused me....or im tired*/
+/*so my problem (was the text align must be centered, not on auto.  Fooling around seems to indicate*/
+/*anything else can be set to auto but text align MUST BE centered, that threw me off....or im tired*/
 
 
 html,body {
